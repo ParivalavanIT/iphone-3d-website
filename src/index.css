@@ -175,6 +175,7 @@ nav .list-styled {
 nav .link-styled {
   font-size: 12px;
   font-weight: 400;
+  text-decoration: none;
   letter-spacing: -0.01em;
   line-height: 1;
   display: flex;
@@ -328,7 +329,7 @@ nav .link-styled {
   display: flex;
   align-items: center;
   flex-direction: column;
-  opacity: 0;
+  /* opacity: 0; */
 }
 
 .sound-section .title {
